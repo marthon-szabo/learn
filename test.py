@@ -1,3 +1,3 @@
 print("Hello world")
 
-if
+if something == "a"
