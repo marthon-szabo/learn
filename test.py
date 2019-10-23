@@ -1,3 +1,4 @@
 print("Hello world")
 
-if something == "a"
+if something == "a":
+    print("alma")
